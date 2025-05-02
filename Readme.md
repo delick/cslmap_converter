@@ -4,6 +4,9 @@ This converter converts `*.cslmap` file format exported from ![csl map view](htt
 
 The file format for cslmap is XML.
 
+Example GeoJSON rendered in QGIS:
+![image](screenshot_csl_qgis.png)
+
 ## Features
 
 This script can convert cslmap to common GeoJSON file. Supported Layers include:
