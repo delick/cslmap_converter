@@ -459,8 +459,6 @@ if enable_3d_str.upper() == "TRUE":
 else:
     enable_3d = False
 
-print(enable_3d)
-
 try:
     with open(xml_file, 'r') as f:
         xml_data_string = f.read()
